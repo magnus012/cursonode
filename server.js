@@ -15,7 +15,7 @@ let ToDo = require("./models/todo");
 
 
 app.get('/', function (req, res) {
-	res.send('Hello World Trevis!'); //envia texto
+	res.send('Hello World Travis!'); //envia texto
 });
 
 
